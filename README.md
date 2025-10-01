@@ -26,22 +26,13 @@ Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder ande
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohannesFleischer-commits&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohannesFleischer-commits&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohannesFleischer-commits&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesFleischer-commits&layout=compact&theme=dracula&count_private=true" alt="Top Languages" />
 </p>
-
----
-
-## 📊 Top Languages
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesFleischer-commits&layout=compact&theme=dracula&count_private=true" />
-</p>
-
 
 
 
