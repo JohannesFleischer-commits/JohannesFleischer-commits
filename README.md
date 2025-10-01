@@ -3,17 +3,18 @@
 🔐 **IT-Security Student | Developer | Tech Enthusiast**  
 
 Willkommen auf meinem Profil!  
-Ich interessiere mich leidenschaftlich für **IT-Sicherheit, Low-Level-Programmierung und Linux**.  
+Ich interessiere mich leidenschaftlich für **IT-Sicherheit und Linux**.  
 Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder andere coole Idee 🚀.  
 
 ---
 
 ## 🌱 About Me  
 - 🎓 Derzeit Student im Bereich **IT-Sicherheit**  
-- 💻 Begeistert von **C, Python, Assembler (x86-64)**  
+- 💻 Begeistert von Python, Linux und dem Flipper Zero
 - 🐧 Linux-Fan & Systemhärtung-Lernender  
-- 📚 Aktuelle Themen: **execve-Analysen, ELF-Dateien, Security-Tools**  
-- 💡 Ziele: **Deep Dive in Cybersecurity & Pentesting**  
+- 📚 Aktuelle Themen:  Meine aktuellen Schwerpunkte sind Experimente mit dem Flipper Zero  
+      sowie das Lösen spannender Aufgaben auf Project Euler.
+- 💡 Ziele: Deep Dive in Cybersecurity & Pentesting  
 
 ---
 
@@ -21,7 +22,7 @@ Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder ande
 
 **Sprachen & Tools:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,vscode" />
 </p>
 
 ---
@@ -37,9 +38,6 @@ Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder ande
 ---
 
 ## 📫 Get in Touch  
-
-- ✉️ Mail: *deine.email@domain.com*  
-- 💼 LinkedIn: [Dein Profil hier einfügen](#)  
 - 🌐 Portfolio: [Coming soon 🚀](#)  
 
 ---
