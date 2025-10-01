@@ -36,6 +36,17 @@ Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder ande
 
 ---
 
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesFleischer-commits&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+
+
+
+
+
 ## 📫 Get in Touch  
 - 🌐 Portfolio: [Coming soon 🚀](#)  
 
