@@ -12,8 +12,7 @@ Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder ande
 - 🎓 Derzeit Student im Bereich **IT-Sicherheit**  
 - 💻 Begeistert von Python, Linux und dem Flipper Zero
 - 🐧 Linux-Fan & Systemhärtung-Lernender  
-- 📚 Aktuelle Themen:  Meine aktuellen Schwerpunkte sind Experimente mit dem Flipper Zero  
-      sowie das Lösen spannender Aufgaben auf Project Euler.
+- 📚 Aktuelle Themen:  Meine aktuellen Schwerpunkte sind Experimente mit dem Flipper Zero sowie das Lösen spannender               Aufgaben auf Project Euler und Hack The Box.
 - 💡 Ziele: Deep Dive in Cybersecurity & Pentesting  
 
 ---
