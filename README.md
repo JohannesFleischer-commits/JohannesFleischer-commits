@@ -41,8 +41,4 @@ Hier findest du Projekte, Lern-Experimente und vielleicht auch die ein oder ande
 
 ---
 
-⭐️ **Fun Fact:**  
-Ich kann Stunden im GDB verbringen, nur um herauszufinden, warum ein einziges Register nicht das macht, was ich will 😅  
-
----
 
